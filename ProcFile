@@ -1,4 +1,4 @@
 
 
-web: gunicorn farm2fam.wsgi
+//web: python farm2fam/manage.py runserver 0.0.0.0:$PORT
 
